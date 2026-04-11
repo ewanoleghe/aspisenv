@@ -23,7 +23,7 @@ While most inspection providers only issue a report, Aspis is the only provider 
 
 ### Live Demo / Presentation
 View the full slide presentation here:  
-→ **[Aspis Environmental Presentation](https://ewanoleghe.github.io/aspisenv/#1)**{:target="_blank"}
+→ **[Aspis Environmental Presentation](https://ewanoleghe.github.io/aspisenv/#1)**
 
 ### Website
 [https://aspisenvironmental.com/](https://aspisenvironmental.com/)
